@@ -6,12 +6,12 @@
     name="hello.exe"
     type="win32"
 />
-<description>Hello, es una app</description>
+<description>Hello</description>
 <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
     <security>
         <requestedPrivileges>
             <requestedExecutionLevel level="requireAdministrator" uiAccess="false"/>
         </requestedPrivileges>
-    </security>
+    </security> 
 </trustInfo>
 </assembly>
